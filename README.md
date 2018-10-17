@@ -1,4 +1,4 @@
-# Bundenforudsætning 2
+# Bunden forudsætning 2
 
 Jeg har valgt at vise disse 5 opgaver, da jeg mener de dækker en stor del af det vi har lært indtil videre.
 
