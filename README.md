@@ -51,4 +51,14 @@ I kryds og bolle kontrolerede jeg visse felter ved at skrive specifikke tal på 
 
 Derudover skulle jeg også opfinde tyngdekraft da brikkerne gerne skal falde ned i bunden af den kolonne som spilleren vælger. Dette løste jeg ved at kontrollere rækkerne fra bunden og op, for at se hvornår der var en ledig plads til en brik. 
 
+---
+
+## Opgave 10.7
+
+Denne opgave gik ud på at lave en ATM machine med 10 konti med 100 kroner på hver til at starte med. Maskinen skal køre for evigt. hver gang brugeren udnytter exit funktionen skal maskinen spørger om nyt id.
+
+For at løse opgaven har jeg gjort brug af to klasser. En til at holde styr på de forskellige konti og en anden til at styre hvad der bliver udskrevet i konsollen.
+
+Derudover bruger jeg while-loops, både så maskinen kører for evigt, og så den forbliver på et bestemt id indtil brugeren benytter exit funktionen.
+
 
